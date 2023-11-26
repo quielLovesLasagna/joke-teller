@@ -34,4 +34,4 @@ Users should be able to:
 
 ## Acknowledgements
 
-I would like to thank **Andrei Neagoie** and **Jacinto Wong** for the guidance throughout the project.
+I would like to thanks **Andrei Neagoie** and **Jacinto Wong** for the guidance throughout the project.
